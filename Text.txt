@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Mi nombre es Ruben Gonzalez y le voy a las Chivas 4555
 
-Arriba las chivas otra vez
-=======
-Mi nombre es Ruben Gonzalez y le voy a las Chivas
->>>>>>> 0d113d6f15ff1d33d05aa1441e10bdc2c79816c1
+Arriba las chivas otra vez, hola nuevamente.
